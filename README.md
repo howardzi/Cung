@@ -9,3 +9,4 @@ Special window:
     2. Monthly budget: a budget usage for this month, what prevents excess
     
     
+![](https://github.com/howardzi/Cung/blob/master/1.png)
